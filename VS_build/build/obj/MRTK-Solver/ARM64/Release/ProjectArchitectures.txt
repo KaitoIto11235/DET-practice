@@ -1,0 +1,1 @@
+C:\Users\itouk\DanceJouge\VS_build\MRTK-Solver\MRTK-Solver.vcxproj;arm64

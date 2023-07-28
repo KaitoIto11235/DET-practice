@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AnimationSpeedChange">
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+			<method name="SpeedChange"/>
+		</type>
+		<type fullname="TrailTime">
+			<method name="TrailTimeChange"/>
+			<method name="TrailTimeChange"/>
+			<method name="TrailTimeChange"/>
+			<method name="TrailTimeChange"/>
+			<method name="TrailTimeChange"/>
+			<method name="TrailTimeChange"/>
+		</type>
+	</assembly>
+</linker>
