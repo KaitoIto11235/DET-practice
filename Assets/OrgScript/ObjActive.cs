@@ -7,6 +7,8 @@ public class ObjActive : MonoBehaviour
     public GameObject[] model = new GameObject[2];
     int flag = 0;
     float time = 0;
+
+    // このスクリプトはいろんなミニサイズのアバターを表示切替するために作ったもので、今は使っていない
     // Start is called before the first frame update
     void Start()
     {
